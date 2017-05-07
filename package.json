@@ -1,0 +1,17 @@
+{
+  "name": "MovieMate",
+  "version": "1.0.0",
+  "description": "A Facebook Chatbot Starter Kit",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "node-wit": "^4.2.0",
+    "request": "2.73.0",
+    "restify": "4.1.1"
+  }
+}
